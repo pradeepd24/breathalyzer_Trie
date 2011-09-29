@@ -1,0 +1,11 @@
+To compile and build the executable:
+
+gcc -o breathalyzer breathalyzer_Trie.c
+
+To execute:
+
+./breathalyzer input_filename
+
+input_filename should contain input which adheres to the specification given here.
+http://www.facebook.com/careers/puzzles.php?puzzle_id=17
+
